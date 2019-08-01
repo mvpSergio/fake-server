@@ -1,5 +1,28 @@
 {
- "agrosuper":[
-	"areas":[{}]
+	"agrosuper": [
+		{
+			"areas": [
+				{
+					"zonas": [
+						{
+							"sectores": [
+								{
+									"pabellones": [
+										{
+											"silos": [
+												{}
+											],
+											"zonas_carga": [
+												{}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
 	]
 }
